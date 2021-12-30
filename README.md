@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on [Keithos Rewrite](https://github.com/KeithosTeam/Keithos-Rewrite)
+
 <!--
 **MCorange99/MCorange99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=MCorange99&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCorange99&layout=compact&theme=tokyonight)
+
+![Profile views](https://gpvc.arturio.dev/MCorange99)
+
