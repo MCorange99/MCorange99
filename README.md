@@ -8,8 +8,8 @@
 🌱 I’m currently learning [Java](https://github.com/MCorange99/EssentialsMCo)
 
 📫 How to reach me: {
-  Discord: MCorange#4829
-  Github: [MCorange99](https://github.com/MCorange99)
+  Discord: MCorange#4829,\n
+  Github: [MCorange99](https://github.com/MCorange99),\n
   Email: Gvidasjuknevicius2@gmail.com
 }
 <!--
