@@ -3,20 +3,20 @@
 🔭 I’m currently working on: 
 
 
-  [Keithos Rewrite](https://github.com/KeithosTeam/Keithos-Rewrite),
+   - [Keithos Rewrite](https://github.com/KeithosTeam/Keithos-Rewrite),
   
-  [EssentialsMCo](https://github.com/MCorange99/EssentialsMCo)
+   - [EssentialsMCo](https://github.com/MCorange99/EssentialsMCo)
 
 🌱 I’m currently learning [Java](https://github.com/MCorange99/EssentialsMCo)
 
 📫 How to reach me: 
 
 
-  Discord: MCorange#4829,
+   - Discord: MCorange#4829,
   
-  Github: [MCorange99](https://github.com/MCorange99),
+   - Github: [MCorange99](https://github.com/MCorange99),
   
-  Email: Gvidasjuknevicius2@gmail.com
+   - Email: Gvidasjuknevicius2@gmail.com
 
 <!--
 **MCorange99/MCorange99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
