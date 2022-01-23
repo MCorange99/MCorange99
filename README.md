@@ -7,7 +7,7 @@
   
    - [EssentialsMCo](https://github.com/MCorange99/EssentialsMCo)
 
-🌱 I’m currently learning [Java](https://github.com/MCorange99/EssentialsMCo)
+🌱 I’m currently learning [Java](https://github.com/MCorange99/EssentialsMCo) and C
 
 📫 How to reach me: 
 
