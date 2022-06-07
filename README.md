@@ -5,9 +5,9 @@
 
    - [Keithos Rewrite](https://github.com/KeithosTeam/Keithos-Rewrite),
   
-   - [EssentialsMCo](https://github.com/MCorange99/EssentialsMCo)
+   - [rorth](https://github.com/MCorange99/rorth)
 
-🌱 I’m currently learning [Java](https://github.com/MCorange99/EssentialsMCo) and C
+🌱 I’m currently learning [rust](https://www.rust-lang.org/)
 
 📫 How to reach me: 
 
