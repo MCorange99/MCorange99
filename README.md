@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 🔭 I’m currently working on: 
-
-
-   - [Keithos Rewrite](https://github.com/KeithosTeam/Keithos-Rewrite),
   
-   - [rorth](https://github.com/MCorange99/rorth)
+   - [mcLang](https://github.com/MCorange99/mclang)
 
 🌱 I’m currently learning [rust](https://www.rust-lang.org/)
 
@@ -16,7 +13,7 @@
   
    - Github: [MCorange99](https://github.com/MCorange99),
   
-   - Email: Gvidasjuknevicius2@gmail.com
+   - Email: mcorangecodes@gmail.com
 
 <!--
 **MCorange99/MCorange99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
