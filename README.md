@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on: 
   
-   - [mcLang](https://github.com/MCorange99/mclang)
+   - [mcLang](https://github.com/mc-lang/mclang)
 
 🌱 I’m currently learning [rust](https://www.rust-lang.org/)
 
