@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on: 
   
-   - [mcLang](https://github.com/mc-lang/mclang)
+   - Myself, i realy need mental and emotional support
 
 🌱 I’m currently learning [rust](https://www.rust-lang.org/)
 
