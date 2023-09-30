@@ -15,6 +15,8 @@
   
    - Email: mcorangecodes@gmail.com
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2POJSS)
+
 Donate:
    - Monero: 46nvfTRV4HB1n3mTjWGFfKAeyu4h7mpsA96pKfJyZkyrcHm9q99fGogiTvynTUxsgFQABiCEffDGUTKBRiSTHR36KmTQ8aH
 
